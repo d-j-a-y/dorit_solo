@@ -1,5 +1,8 @@
 ##Poster scene
 
+<img src="ressources/poster_01.png" width=350px alt="" title="" />
+<img src="ressources/poster_02.png" width=350px alt="" title="" />
+
 ###Background :
 ```
 I: Entry 0 has effect Bathroom Window
