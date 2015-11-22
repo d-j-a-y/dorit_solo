@@ -63,11 +63,11 @@ I: Entry 10 has effect <none>
 
 ###Example of 80' video
 Pamper cat food TV Commercial – 1979 - https://archive.org/details/PamperCatFood
-<img src="ressources/79video_style_pampercatfood_00" width=350px alt="" title="" />
-<img src="ressources/79video_style_pampercatfood_01" width=350px alt="" title="" />
-<img src="ressources/79video_style_pampercatfood_02" width=350px alt="" title="" />
-<img src="ressources/79video_style_pampercatfood_03" width=350px alt="" title="" />
-<img src="ressources/79video_style_pampercatfood_04" width=350px alt="" title="" />
+<img src="ressources/79video_style_pampercatfood_00.png" width=350px alt="" title="" />
+<img src="ressources/79video_style_pampercatfood_01.png" width=350px alt="" title="" />
+<img src="ressources/79video_style_pampercatfood_02.png" width=350px alt="" title="" />
+<img src="ressources/79video_style_pampercatfood_03.png" width=350px alt="" title="" />
+<img src="ressources/79video_style_pampercatfood_04.png" width=350px alt="" title="" />
 
 ##La cuisine de loin
 <img src="ressources/kitchen_from_far.png" width=350px alt="" title="" />
@@ -83,7 +83,7 @@ I: Entry 7 has effect VideoWall / Tile Placement
 ```
 
 ##Running with a coat - OldMovie fx
-<img src="ressources/kitchen_from_far.png" width=350px alt="" title="" />
+<img src="ressources/runningwithacoat_oldfx.png" width=350px alt="" title="" />
 ```
 I: Entry 1 has effect <none>
 I: Entry 2 has effect frei0r addition (sur lui meme pour plus de grain)
