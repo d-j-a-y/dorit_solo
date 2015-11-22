@@ -59,3 +59,34 @@ I: Entry 10 has effect <none>
 ###Sample1 80'
 <img src="ressources/facefromcandle_param_chromamagic.png" alt="" title="" />
 <img src="ressources/facefromcandle_sample1_heighty.png" width=350px alt="" title="" />
+
+
+###Example of 80' video
+Pamper cat food TV Commercial – 1979 - https://archive.org/details/PamperCatFood
+<img src="ressources/79video_style_pampercatfood_00" width=350px alt="" title="" />
+<img src="ressources/79video_style_pampercatfood_01" width=350px alt="" title="" />
+<img src="ressources/79video_style_pampercatfood_02" width=350px alt="" title="" />
+<img src="ressources/79video_style_pampercatfood_03" width=350px alt="" title="" />
+<img src="ressources/79video_style_pampercatfood_04" width=350px alt="" title="" />
+
+##La cuisine de loin
+<img src="ressources/kitchen_from_far.png" width=350px alt="" title="" />
+```
+I: Entry 0 has effect <none>
+I: Entry 1 has effect Chromium
+I: Entry 2 has effect Fish Eye
+I: Entry 3 has effect Zoom
+I: Entry 4 has effect Videoplay (timestretched mosaic)
+I: Entry 5 has effect VideoWall / Tile Placement
+I: Entry 6 has effect Videoplay (timestretched mosaic)
+I: Entry 7 has effect VideoWall / Tile Placement
+```
+
+##Running with a coat - OldMovie fx
+<img src="ressources/kitchen_from_far.png" width=350px alt="" title="" />
+```
+I: Entry 1 has effect <none>
+I: Entry 2 has effect frei0r addition (sur lui meme pour plus de grain)
+I: Entry 3 has effect frei0r addition (sur la snow quoi)
+I: Entry 6 has effect frei0r Vignette
+```
